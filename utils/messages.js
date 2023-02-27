@@ -1,0 +1,10 @@
+exports.DB_ERROR = 'DB error.';
+exports.SERVER_ERROR = 'Server error.';
+exports.SUCCESS = 'The operation succeed.';
+exports.NO_DATA = 'No data.';
+exports.TRUE = 'true';
+exports.FALSE = 'false';
+exports.MINT_IS_FINISHED = 'The mint for that whitelist was already finished.';
+exports.MINT_AMOUNT_FOR_WHITELIST_1 = 1;
+exports.MINT_AMOUNT_FOR_WHITELIST_2 = 1;
+exports.REGISTER_FINISHED = 'Register is finished.';
